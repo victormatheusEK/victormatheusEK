@@ -10,11 +10,8 @@
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-**Python Developer** &#12299;_working in Django Web Applications & Data Science_
-<br/>
-**Web Designer & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
+**Python Developer** &#12299;_working on Django Web Applications & Data Science_
 
 ----
 
