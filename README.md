@@ -13,9 +13,6 @@
 
 **Python Developer** &#12299;_working on Django Web Applications & Data Science_
 
-[![Victor Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormatheusek&theme=tokyonight&show_icons=true&icon_color=87ceeb)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormatheusek&theme=tokyonight&layout=compact&icon_color=87ceeb)](https://github.com/anuraghazra/github-readme-stats)
-
 ----
 
 <a href="https://linkedin.com/in/victormatheusEK">
